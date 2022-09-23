@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7L+CfDRD2LUGMfH4AepwUDw6a7Kw44rd6ks9Vgiw+J+jP70f6zXdti4NbV5RfTCKT3DYKFPhGqMaibDy1YKjvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mrquackduckk\\source\\repos\\PasswordGenerator\\PasswordGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\temad\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.7\\microsoft.netcore.app.runtime.win-x86.6.0.7.nupkg.sha512",
+    "C:\\Users\\temad\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.7\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.7.nupkg.sha512",
+    "C:\\Users\\temad\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.7\\microsoft.aspnetcore.app.runtime.win-x86.6.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

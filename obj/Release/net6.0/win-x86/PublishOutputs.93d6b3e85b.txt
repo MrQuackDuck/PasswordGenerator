@@ -1,0 +1,2 @@
+C:\Users\mrquackduckk\source\repos\PasswordGenerator\bin\Release\net6.0\win-x86\publish\PasswordGenerator.pdb
+C:\Users\mrquackduckk\source\repos\PasswordGenerator\bin\Release\net6.0\win-x86\publish\PasswordGenerator.exe
